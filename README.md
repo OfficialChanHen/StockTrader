@@ -1,4 +1,4 @@
-# Momentum Trade Strategy
+# Intraday Trade Strategy
 
 A Python trading strategy script that downloads intraday 1-minute OHLCV data for any stock, runs a momentum-based backtest, and outputs an interactive HTML chart and a PNG image with buy/sell signals plotted directly on the candlesticks.
 
