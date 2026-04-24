@@ -112,7 +112,7 @@ Losses:       1
 HTML chart saved to: /path/to/SOFI_2025-12-09.html
 ```
 
-Both files are named `TICKER_DATE` and will **override any existing file** with the same name on re-run.
+The file is named /`TICKER`/`TICKER_DATE`.html and will **override any existing file** with the same name on re-run.
 
 ---
 
