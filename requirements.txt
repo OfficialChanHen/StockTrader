@@ -1,0 +1,5 @@
+yfinance
+plotly
+pandas
+numpy
+kaleido
